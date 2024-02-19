@@ -26,4 +26,4 @@ PostgresSQL database was chosen because:
 
 ## Database Schema:
 
-![image info](Diagrams/QuickDBD-Free Diagram.png)
+![Database Schema](Diagrams/QuickDBDTrendDatabase.png)
